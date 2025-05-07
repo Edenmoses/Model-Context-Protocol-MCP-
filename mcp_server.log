@@ -1,0 +1,30 @@
+2025-05-06 16:46:02,516 - mcp.server.lowlevel.server - DEBUG - Initializing server 'echo-server'
+2025-05-06 16:46:02,520 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-05-06 16:46:02,523 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-05-06 16:46:02,525 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-05-06 16:46:02,526 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-05-06 16:46:02,527 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-05-06 16:46:02,529 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-05-06 16:46:02,531 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-05-06 16:46:02,573 - mcp-server - INFO - Starting MCP server on http://localhost:7860
+2025-05-06 16:46:02,590 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-05-06 16:46:38,434 - mcp.server.lowlevel.server - DEBUG - Initializing server 'echo-server'
+2025-05-06 16:46:38,438 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-05-06 16:46:38,439 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-05-06 16:46:38,440 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-05-06 16:46:38,441 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-05-06 16:46:38,441 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-05-06 16:46:38,442 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-05-06 16:46:38,443 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-05-06 16:46:38,475 - mcp-server - INFO - Starting MCP server on http://localhost:7860
+2025-05-06 16:46:38,489 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-05-06 16:47:21,960 - mcp.server.lowlevel.server - DEBUG - Initializing server 'echo-server'
+2025-05-06 16:47:21,964 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-05-06 16:47:21,965 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-05-06 16:47:21,965 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-05-06 16:47:21,966 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-05-06 16:47:21,968 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-05-06 16:47:21,969 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-05-06 16:47:21,969 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-05-06 16:47:22,004 - mcp-server - INFO - Starting MCP server on http://localhost:7860
+2025-05-06 16:47:22,024 - asyncio - DEBUG - Using proactor: IocpProactor
